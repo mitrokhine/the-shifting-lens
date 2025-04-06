@@ -1,1 +1,11 @@
 theme: minima
+
+# Ensure GitHub Pages is using the dev branch
+branch: dev
+
+# Exclude index.md if it exists
+exclude:
+  - index.md
+
+# Ensure the source directory is the root
+source: /
