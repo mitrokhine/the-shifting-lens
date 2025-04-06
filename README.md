@@ -124,6 +124,13 @@ Si le joueur se sent coincé entre ces deux choix, cela pourrait vraiment plonge
 Dernière question pour parfaire le jeu :
 Quand le joueur commence à comprendre les effets destructeurs de ses choix, comment voudrais-tu qu'il réagisse ? Peut-être une rébellion interne, où il commence à contester le système, ou alors il accepte de plus en plus son rôle et devient lui-même plus cruel dans ses décisions ? Ou peut-être un chemin plus subtil, où il commence à chercher une issue à ce dilemme ?
 
+## 6 Mecaniques 
+
+Je veux aussi créer des images choc pour créer une prise de conscience et aller de plus en plus vers l'horreur. 
+
+Pourquoi pas arriver vers un autre site pour avoir des nouvelles sur la nouvelle technologie. Comme un compteur avec une image tres joyeuse, comme si toutes les figures d'autorité étaient en train de célébrer ca et attendre ce moment
+pour entrer dans le site, il faudrait un password qu'il doit trouver dans le journal justement 
+
 <footer>
 
 <!--
