@@ -124,12 +124,38 @@ Si le joueur se sent coincé entre ces deux choix, cela pourrait vraiment plonge
 Dernière question pour parfaire le jeu :
 Quand le joueur commence à comprendre les effets destructeurs de ses choix, comment voudrais-tu qu'il réagisse ? Peut-être une rébellion interne, où il commence à contester le système, ou alors il accepte de plus en plus son rôle et devient lui-même plus cruel dans ses décisions ? Ou peut-être un chemin plus subtil, où il commence à chercher une issue à ce dilemme ?
 
-## 6 Mecaniques 
+### 6 Mecaniques 
 
 Je veux aussi créer des images choc pour créer une prise de conscience et aller de plus en plus vers l'horreur. 
 
 Pourquoi pas arriver vers un autre site pour avoir des nouvelles sur la nouvelle technologie. Comme un compteur avec une image tres joyeuse, comme si toutes les figures d'autorité étaient en train de célébrer ca et attendre ce moment
 pour entrer dans le site, il faudrait un password qu'il doit trouver dans le journal justement 
+
+## Résumé des étapes :
+Établir l'Univers et le Contexte :
+Définir un monde dystopique où l'isolement et la dépendance numérique sont omniprésents.
+Le joueur incarne une figure d'autorité, devant prendre des décisions cruelles entre financer la santé publique ou maintenir le revenu universel.
+Création du Premier Site Web et Message Secret :
+Créer un site web officiel où le joueur arrive en premier.
+Le site cache un message secret envoyé par une autre figure d'autorité.
+Le joueur doit trouver ce message caché dans le code source, un document ou un message crypté. Cette découverte marque le début de l'ARG.
+Progression à travers de Nouveaux Sites :
+Le message initial mène à un deuxième site, plus officiel, qui semble joyeux et optimiste mais cache des indices dérangeants.
+Ce site pourrait être lié à l’annonce d’une nouvelle technologie. Le joueur interagit avec des compteurs de compte à rebours, des graphiques et des images de figures d'autorité célébrant la technologie.
+Les indices cachés dans les images ou métadonnées révèlent la réalité sombre derrière cette technologie.
+L’introduction des Dilemmes Moraux :
+Au fur et à mesure que le joueur explore, il sera confronté à des dilemmes moraux, comme celui où il doit choisir entre financer la santé publique (pour sauver les malades) ou maintenir le revenu universel (pour que les citoyens sains puissent survivre).
+Des rapports et courbes de mortalité, ainsi que des mises à jour de breaking news, clarifient les conséquences de ses choix.
+Les Images et Vidéos Choc :
+Utiliser des images et vidéos dérangeantes qui créent un contraste entre la façade joyeuse du système et la réalité horrible cachée.
+Au fur et à mesure que le joueur progresse, ces images deviennent de plus en plus explicites et choquantes, avec des éléments cachés dans les vidéos ou photos.
+Ces fuites vidéo ou images subliminales montrent des patients malades, des expériences inhumaines, ou des scènes choquantes de la société en déclin.
+Évolution de la Conscience du Joueur :
+Petit à petit, le joueur commence à se rendre compte de l’ampleur de la manipulation et de la cruauté du système qu’il soutient.
+L’argumentation se développe autour de la culpabilité, des dilemmes moraux et de la prise de conscience progressive de l’humanité derrière ces décisions.
+Conclusion Choquante :
+Le joueur se retrouve à un point où il doit prendre une décision finale concernant le futur du système, confronté à l’horreur de ses choix passés.
+Ce dernier choix pourrait accélérer l’horreur, comme la révélation d'une vérité insoutenable, ou conduire à une rébellion où le joueur se retourne contre le système, mais en prenant conscience que le mal est désormais insurmontable.
 
 <footer>
 
