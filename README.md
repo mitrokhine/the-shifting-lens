@@ -157,6 +157,51 @@ Conclusion Choquante :
 Le joueur se retrouve à un point où il doit prendre une décision finale concernant le futur du système, confronté à l’horreur de ses choix passés.
 Ce dernier choix pourrait accélérer l’horreur, comme la révélation d'une vérité insoutenable, ou conduire à une rébellion où le joueur se retourne contre le système, mais en prenant conscience que le mal est désormais insurmontable.
 
+### Premier site web 
+
+Oui, un journal en ligne serait une excellente idée pour le premier site web ! Cela offrirait une ambiance crédible et immersive, tout en donnant au joueur la sensation de naviguer dans un univers qui semble normal, mais avec des indices cachés qui deviennent de plus en plus dérangeants à mesure qu'il explore. Un site de journal pourrait aussi être utilisé pour insérer des éléments de distraction qui poussent le joueur à perdre du temps à chercher l'indice, avant de réaliser qu'il y a quelque chose de beaucoup plus sinistre sous la surface.
+
+À quoi pourrait ressembler le premier site web ?
+## 1. Design général :
+
+Interface classique de journal en ligne : La page d’accueil aurait un design traditionnel de site de journal (comme un portail de nouvelles), avec une mise en page composée de titres d’articles, de résumés, d'images d'illustration, et de publicités qui donnent une sensation de normalité.
+La couleur dominante pourrait être terne, avec des tons sombres pour instaurer une ambiance de dystopie (par exemple, un mélange de gris et de bleu), et quelques touches de couleur pour les publicités ou les titres pour créer un contraste artificiel.
+Des publicités étranges (peut-être un peu trop enthousiastes) sur des produits technologiques, des services d’IA, ou des solutions sociales (par exemple : "Le futur de la société, c’est la liberté du numérique!" ou "Découvrez notre dernier robot compagnon !").
+
+## 2. Le contenu des articles :
+
+Les articles seraient banals à première vue, couvrant des sujets tels que l'économie, les technologies, les mises à jour sur la société, ou des déclarations officielles d'autorités.
+Quelques articles pourraient être très positifs et glorifier les avancées technologiques, la robotisation, et le fait que la technologie a résolu tous les problèmes sociaux (ou du moins ce qu'ils veulent que les gens croient).
+Mais des articles plus subtils mentionneraient des problèmes sous-jacents que le lecteur moyen pourrait ne pas remarquer :
+Une petite mention d'un fléau social en pleine expansion, mais masqué sous des termes comme « crise sanitaire mineure ».
+Des allusions subtiles à des dissidents ou à des disparitions mystérieuses, mais présentées comme étant des "accidents" ou des "problèmes isolés".
+Par exemple, un article pourrait présenter une annonce de progrès technologique et, dans la section "découvertes récentes", il y aurait une phrase discrète qui parle d'une nouvelle technologie pour les malades ou des soins à distance, mais qui semble non liée au reste du contenu.
+Indice caché :
+Un article pourrait être écrit de façon à ce qu'un mot ou une phrase semble légèrement hors de propos ou incohérent, et que le joueur doive le remarquer pour le lier à un indice plus grand. Par exemple, un passage comme :
+*"Malgré les dernières avancées, quelques rares incidents ont montré des failles dans le programme de santé publique. Les experts insistent sur le fait que ces anomalies sont isolées, mais... une nouvelle technologie pourrait bientôt changer tout cela."
+Cela pourrait être la première mention discrète d’une nouvelle technologie, mais l'indice caché pourrait être dans la façon dont il est formulé ou dans les mots choisis.
+
+## 3. Les indices cachés :
+
+Dans le texte : L'indice peut être un message crypté dans un article. Par exemple, certaines lettres en surbrillance ou des mots en gras qui forment un message caché.
+Code source de la page : Le message caché peut aussi se trouver dans le code source de la page web, par exemple, dans des commentaires HTML invisibles à l'œil nu. Le joueur pourrait être amené à inspecter la page, ce qui le pousserait à manipuler l'inspecteur d'éléments ou à analyser les images.
+Images d'illustration : Des images comme des portraits de figures d’autorité pourraient avoir des éléments visuels cachés, comme des symboles ou des références subtiles au monde dystopique. Un logo étrange dans le fond d’une photo, ou un détail étrange dans la posture d’un personnage qui semble « hors de place », pourrait être un indice vers quelque chose de plus sinistre.
+Lien caché ou fichier à télécharger : Il pourrait y avoir un lien discret vers un autre site ou un fichier caché (par exemple, un PDF ou une archive zip) contenant des informations sensibles. Ce fichier pourrait contenir des documents confidentiels ou des messages de dissidents.
+
+## 4. La recherche de l'indice :
+
+Le joueur pourrait se retrouver à naviguer sur ce site web pendant un certain temps sans rien trouver de particulièrement étrange, jusqu’à ce qu’il remarque quelque chose d’anormal dans l’un des articles ou qu’il inspecte le code de la page. L'idée est de lui faire perdre du temps à explorer des articles banals avant de découvrir l'indice caché.
+
+Par exemple : Le joueur commence à lire un article normal sur les « avancées dans la robotisation », mais un détail bizarre dans une phrase attire son attention, comme un mot en majuscules (par exemple "SOUTENIR" au lieu de "soutenir"), ce qui le pousse à vérifier d'autres indices sur la page ou dans le code source.
+
+## 5. Ambiance générale :
+
+Les articles et la navigation seraient très lents et répétitifs, pour que le joueur se sente un peu prisonnier de l'interface. L’aspect rassurant de ce journal normal doit masquer un dérangement sous-jacent.
+Des notifications et des publicités envahissantes pourraient apparaître pour distraire davantage le joueur, tout en étant aussi ambiguës. Par exemple :
+Une publicité pour un programme de robotisation avec des promesses irréalistes.
+Un avertissement de maintenance sur le site, qui semble presque trop parfait et réconfortant ("Nous mettons à jour le système pour une meilleure expérience !").
+
+
 <footer>
 
 <!--
